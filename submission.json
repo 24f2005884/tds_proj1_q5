@@ -1,0 +1,7 @@
+{
+  "prompt": "A vast landscape where one enormous golden palace towers above thousands of tiny huts, symbolizing global wealth inequality. Dramatic lighting, cinematic editorial illustration, no charts or graphs.",
+  "model": "DALL-E 3",
+  "dataset_name": "Global Wealth Distribution",
+  "dataset_url": "https://wid.world/data/",
+  "insight": "The richest 1% owns nearly half of the world's wealth."
+}
